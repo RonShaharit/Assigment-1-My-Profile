@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
+
+h1{color:#FFA833;}
+h2{color:#FF5B33}
+/* h1= Orange
+h2= red
+p= grey
+ */
+p{color:#1E1918;}
+ul{color:#605A59;}
+Li{color: #605A59;}
+body {background-color: #f4f4f4;
+      color: #555555
+    line-height:1.6em;
+}
